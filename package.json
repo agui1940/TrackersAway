@@ -23,7 +23,7 @@
     "electron-builder": "22.3.2",
     "eslint": "6.3.0",
     "eslint-config-google": "0.14.0",
-    "mocha": "6.2.0"
+    "mocha": "6.2.2"
   },
   "dependencies": {
     "axios": "0.19.2",
